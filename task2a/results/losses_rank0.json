@@ -1,0 +1,243 @@
+{
+  "rank": 0,
+  "world_size": 4,
+  "method": "gather_scatter",
+  "per_device_batch_size": 16,
+  "total_batch_size": 64,
+  "losses": [
+    {
+      "epoch": 0,
+      "step": 0,
+      "global_step": 0,
+      "loss": 1.0180578231811523
+    },
+    {
+      "epoch": 0,
+      "step": 1,
+      "global_step": 1,
+      "loss": 0.7021329998970032
+    },
+    {
+      "epoch": 0,
+      "step": 2,
+      "global_step": 2,
+      "loss": 0.8006546497344971
+    },
+    {
+      "epoch": 0,
+      "step": 3,
+      "global_step": 3,
+      "loss": 0.7554677724838257
+    },
+    {
+      "epoch": 0,
+      "step": 4,
+      "global_step": 4,
+      "loss": 0.7261958718299866
+    },
+    {
+      "epoch": 0,
+      "step": 5,
+      "global_step": 5,
+      "loss": 0.6844937801361084
+    },
+    {
+      "epoch": 0,
+      "step": 6,
+      "global_step": 6,
+      "loss": 0.7229129672050476
+    },
+    {
+      "epoch": 0,
+      "step": 7,
+      "global_step": 7,
+      "loss": 0.7229397296905518
+    },
+    {
+      "epoch": 0,
+      "step": 8,
+      "global_step": 8,
+      "loss": 0.6792713403701782
+    },
+    {
+      "epoch": 0,
+      "step": 9,
+      "global_step": 9,
+      "loss": 0.667826235294342
+    },
+    {
+      "epoch": 0,
+      "step": 10,
+      "global_step": 10,
+      "loss": 0.6376899480819702
+    },
+    {
+      "epoch": 0,
+      "step": 11,
+      "global_step": 11,
+      "loss": 0.6937161684036255
+    },
+    {
+      "epoch": 0,
+      "step": 12,
+      "global_step": 12,
+      "loss": 0.6267299652099609
+    },
+    {
+      "epoch": 0,
+      "step": 13,
+      "global_step": 13,
+      "loss": 0.7270932197570801
+    },
+    {
+      "epoch": 0,
+      "step": 14,
+      "global_step": 14,
+      "loss": 0.7341051697731018
+    },
+    {
+      "epoch": 0,
+      "step": 15,
+      "global_step": 15,
+      "loss": 0.6978049278259277
+    },
+    {
+      "epoch": 0,
+      "step": 16,
+      "global_step": 16,
+      "loss": 0.6159424781799316
+    },
+    {
+      "epoch": 0,
+      "step": 17,
+      "global_step": 17,
+      "loss": 0.6287009716033936
+    },
+    {
+      "epoch": 0,
+      "step": 18,
+      "global_step": 18,
+      "loss": 0.6552484035491943
+    },
+    {
+      "epoch": 0,
+      "step": 19,
+      "global_step": 19,
+      "loss": 0.69069904088974
+    },
+    {
+      "epoch": 0,
+      "step": 20,
+      "global_step": 20,
+      "loss": 0.6552271842956543
+    },
+    {
+      "epoch": 0,
+      "step": 21,
+      "global_step": 21,
+      "loss": 0.7248730063438416
+    },
+    {
+      "epoch": 0,
+      "step": 22,
+      "global_step": 22,
+      "loss": 0.6859300136566162
+    },
+    {
+      "epoch": 0,
+      "step": 23,
+      "global_step": 23,
+      "loss": 0.702466607093811
+    },
+    {
+      "epoch": 0,
+      "step": 24,
+      "global_step": 24,
+      "loss": 0.6970337629318237
+    },
+    {
+      "epoch": 0,
+      "step": 25,
+      "global_step": 25,
+      "loss": 0.6748731732368469
+    },
+    {
+      "epoch": 0,
+      "step": 26,
+      "global_step": 26,
+      "loss": 0.669835090637207
+    },
+    {
+      "epoch": 0,
+      "step": 27,
+      "global_step": 27,
+      "loss": 0.7199047207832336
+    },
+    {
+      "epoch": 0,
+      "step": 28,
+      "global_step": 28,
+      "loss": 0.7045708298683167
+    },
+    {
+      "epoch": 0,
+      "step": 29,
+      "global_step": 29,
+      "loss": 0.6246535778045654
+    },
+    {
+      "epoch": 0,
+      "step": 30,
+      "global_step": 30,
+      "loss": 0.6796866059303284
+    },
+    {
+      "epoch": 0,
+      "step": 31,
+      "global_step": 31,
+      "loss": 0.712964653968811
+    },
+    {
+      "epoch": 0,
+      "step": 32,
+      "global_step": 32,
+      "loss": 0.6121959090232849
+    },
+    {
+      "epoch": 0,
+      "step": 33,
+      "global_step": 33,
+      "loss": 0.7389938831329346
+    },
+    {
+      "epoch": 0,
+      "step": 34,
+      "global_step": 34,
+      "loss": 0.7091906666755676
+    },
+    {
+      "epoch": 0,
+      "step": 35,
+      "global_step": 35,
+      "loss": 0.6937379240989685
+    },
+    {
+      "epoch": 0,
+      "step": 36,
+      "global_step": 36,
+      "loss": 0.703217089176178
+    },
+    {
+      "epoch": 0,
+      "step": 37,
+      "global_step": 37,
+      "loss": 0.7141276001930237
+    },
+    {
+      "epoch": 0,
+      "step": 38,
+      "global_step": 38,
+      "loss": 0.6246801614761353
+    }
+  ]
+}
